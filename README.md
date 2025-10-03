@@ -25,7 +25,7 @@ Make sure to create accounts on the platforms beforehand (PortSwigger, picoCTF, 
 
 ### PortSwigger — Insecure Direct Object References (Web Security Academy)
 
-[https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references](https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references)
+-[https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references](https://portswigger.net/web-security/access-control/lab-insecure-direct-object-references)
 
 A solution is provided in the lab by PortSwigger; you can follow it if you get lost or give up.
 
@@ -34,7 +34,9 @@ A solution is provided in the lab by PortSwigger; you can follow it if you get l
 ### picoCTF — Cookies challenge (practice)
 
 [https://play.picoctf.org/practice/challenge/173](https://play.picoctf.org/practice/challenge/173)
+
 **Note:** *Make a picoCTF account beforehand.*
+
 Writeup: [https://tomsitcafe.com/2024/03/08/picoctf-cookies-ctf-write-up/](https://tomsitcafe.com/2024/03/08/picoctf-cookies-ctf-write-up/)
 
 ---
@@ -42,6 +44,7 @@ Writeup: [https://tomsitcafe.com/2024/03/08/picoctf-cookies-ctf-write-up/](https
 ### TryHackMe — Neighbour (room)
 
 [https://tryhackme.com/room/neighbour](https://tryhackme.com/room/neighbour)
+
 Writeup : [https://github.com/riyyoo/TryHackMe-Neighbour-Walkthrough?tab=readme-ov-file](https://github.com/riyyoo/TryHackMe-Neighbour-Walkthrough?tab=readme-ov-file)
 
 **How to join & run :**
@@ -60,9 +63,11 @@ Writeup : [https://github.com/riyyoo/TryHackMe-Neighbour-Walkthrough?tab=readme-
 ### TryHackMe — Corridor (room)
 
 [https://tryhackme.com/room/corridor](https://tryhackme.com/room/corridor)
+
 Writeup: [https://medium.com/@jamesjarviscyber/corridor-tryhackme-ctf-write-up-6ca3f2a09bca](https://medium.com/@jamesjarviscyber/corridor-tryhackme-ctf-write-up-6ca3f2a09bca)
 
 **How to join & run :**
+
 Same steps as the previous TryHackMe challenge.
 
 ---
