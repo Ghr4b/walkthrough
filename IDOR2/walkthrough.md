@@ -41,6 +41,8 @@ You should see Flask start and the DB initialized. The `init_db()` function inse
 after that make two accounts one for the victim and one for the attacker.
 
 this is my attacker's profile 
+
+
 ![attacker](attacker_profile.jpg)
 
 
@@ -63,6 +65,8 @@ Note: the `UUID` ids are harder to guess than simple integers,like the previous 
 **Goal:** get a list of users and their UUIDs.
 
 this one is simple: open a browser and visit http://127.0.0.1:5000/api/users
+
+
 ![identifier](id_victim.jpg)
 
 
@@ -132,10 +136,14 @@ the request being made is /api/users/7327dec1-890f-479a-a77c-1d27bcaa9064
 
 let's send it to replay (repeater) and tinker with it a bit 
 change the email and the bio field however you want and change the id from your to the victim's 
+
+
 ![tinker](repeater_update.jpg)
 
 
 and click send and you should see the success message 
+
+
 ![success](success.jpg)
 
 
