@@ -39,9 +39,9 @@ discover the webapp and test different functionalities
 
 #### 2.2.1 Setting up the proxy
 
-before any hacking make sure to get comfortable a bit with (bursuite)[https://www.youtube.com/watch?v=G3hpAeoZ4ek]
+before any hacking make sure to get comfortable a bit with bursuite (https://www.youtube.com/watch?v=G3hpAeoZ4ek)[https://www.youtube.com/watch?v=G3hpAeoZ4ek]
 
-or with (caido)[https://www.youtube.com/watch?v=4rpbtc4nPAA]
+or with caido (https://www.youtube.com/watch?v=4rpbtc4nPAA)[https://www.youtube.com/watch?v=4rpbtc4nPAA]
 
 these are tutorials i reccomand, you can find ones that suit you better!
 
@@ -79,7 +79,7 @@ let's test the delete functionality , the one we are interested in
 turn back on the queuing and click the delete button 
 you should see this pop up again 
 
-![intercepted_delete](intercepted_delete.jpg)
+![intercepted_delete](intercept_delete.jpg)
 
 
 send the request to repeater using ctrl+r and let's try to test the functionality
